@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+       android:shape="oval"
+        >
+    <!--指定背景色-->
+    <solid android:color="#f00"/>
+
+    <!-- 通过指定尺寸来形成圆形-->
+    <size
+            android:width="50dp"
+            android:height="50dp"
+            />
+    <!-- 边框-->
+    <stroke
+            android:color="#FFF"
+            android:width="1dp"
+            />
+    <!-- 设置渐变 原来的背景失效-->
+    <gradient
+            android:startColor="#ff6218da"
+            android:endColor="#ff7e1376"
+            android:angle="-90"
+            />
+
+</shape>

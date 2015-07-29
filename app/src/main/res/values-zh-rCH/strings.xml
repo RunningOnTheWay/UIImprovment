@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UI美化</string>
+
+    <string name="hello_world">你好世界</string>
+    <string name="action_settings">设置</string>
+    <string name="title_activity_second">第二个</string>
+    <string name="change_style">改样式</string>
+</resources>
